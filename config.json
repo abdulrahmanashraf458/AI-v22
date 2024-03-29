@@ -1,0 +1,5 @@
+{
+    "token": "Token",
+    "allowed_channel_ids": ["id-channel-text", "id-channel-text", "id-channel-text"],
+    "image2textChannels":["id-channel-image", "id-channel-image", "id-channel-image"]
+}
